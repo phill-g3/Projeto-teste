@@ -25,6 +25,7 @@ namespace ConsoleApp12
             Console.WriteLine(data.ToUniversalTime());
             Console.WriteLine(d5);
             Console.WriteLine(d5.ToUniversalTime());
+            Console.WriteLine("teste");
             
         }
     }
